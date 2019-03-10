@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>magcamit.com</title>
-    <link>https://magcamit.com/</link>
+    <link>http://www.magcamit.com/</link>
     <description>Recent content on magcamit.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     
-	<atom:link href="https://magcamit.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.magcamit.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
