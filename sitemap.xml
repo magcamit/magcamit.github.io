@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://www.magcamit.com/project/sectralink-ea/</loc>
+      <lastmod>2016-12-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.magcamit.com/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+05:30</lastmod>
     </url>
@@ -173,6 +181,15 @@
     
       <loc>https://www.magcamit.com/tags/</loc>
       <lastmod>2019-03-01T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.magcamit.com/tags/trading/</loc>
+      <lastmod>2016-12-01T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
