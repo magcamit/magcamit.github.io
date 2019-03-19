@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; Michael Intal Magcamit</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://www.magcamit.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Politics</title>
+      <link>https://www.magcamit.com/tags/politics/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.magcamit.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://www.magcamit.com/tags/religion/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.magcamit.com/tags/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://www.magcamit.com/tags/security/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.magcamit.com/tags/security/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

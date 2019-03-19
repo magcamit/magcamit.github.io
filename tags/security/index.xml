@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on @magcamit</title>
+    <link>https://www.magcamit.com/tags/security/</link>
+    <description>Recent content in Security on @magcamit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Michael Intal Magcamit</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.magcamit.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SeReNa-SEA</title>
+      <link>https://www.magcamit.com/project/serena-sea/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.magcamit.com/project/serena-sea/</guid>
+      <description>The Divine Tragedy of Securing the Sacred: Security, Religion, and Nationalism in Southeast Asia
+ Fieldworks (relating to the project) Public Engagements (relating to the project) A Case For Godless States (monograph) Why Nation-States Persist (journal manuscript) The Divine Tragedy of Securing the Sacred (journal manuscript)  A EU Horizon 2020 Marie Skłodowska-Curie Project: 1 Mar 2019 &amp;ndash; 28 Feb 2021. See the SeReNa-SEA project factsheet.</description>
+    </item>
+    
+  </channel>
+</rss>
