@@ -4,16 +4,16 @@
     <title>@magcamit on @magcamit</title>
     <link>https://www.magcamit.com/</link>
     <description>Recent content in @magcamit on @magcamit</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; Michael Intal Magcamit</copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0530</lastBuildDate>
+    <copyright>&amp;copy; {year}, Michael Intal Magcamit.</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SeReNa-SEA</title>
       <link>https://www.magcamit.com/project/serena-sea/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>https://www.magcamit.com/project/serena-sea/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Divine Tragedy of Securing the Sacred: Security, Religion, and Nationalism in Southeast Asia&lt;/em&gt;&lt;/p&gt;
@@ -31,9 +31,18 @@
     </item>
     
     <item>
+      <title>Explaining the three-way linkage between populism, securitization, and realist foreign policies: President Donald Trump and the Pursuit of ``America First&#39;&#39; Doctrine</title>
+      <link>https://www.magcamit.com/publication/magcamit-2017-explaining/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2017-explaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SecTraLink-EA</title>
       <link>https://www.magcamit.com/project/sectralink-ea/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0900</pubDate>
       
       <guid>https://www.magcamit.com/project/sectralink-ea/</guid>
       <description>
@@ -67,23 +76,75 @@ This book examines why and how small powers link their security interests and tr
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://www.magcamit.com/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
+      <title>East and South China Seas Maritime Dispute Resolution and Escalation: Two Sides of the Same Coin?</title>
+      <link>https://www.magcamit.com/publication/magcamit-2016-east/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://www.magcamit.com/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://www.magcamit.com/publication/magcamit-2016-east/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://www.magcamit.com/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
+      <title>Small powers and trading security: Contexts, motives and outcomes</title>
+      <link>https://www.magcamit.com/publication/magcamit-2016-small/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://www.magcamit.com/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://www.magcamit.com/publication/magcamit-2016-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trading in Vain? Investigating the Philippines&#39; Development-oriented National Security and Free Trade Linkages</title>
+      <link>https://www.magcamit.com/publication/magcamit-2016-trading/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2016-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Costly Affirmation: Exploring Malaysia&#39;s One-Sided Domestic Security Dilemma</title>
+      <link>https://www.magcamit.com/publication/magcamit-2015-costly/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2015-costly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games, Changes and Fears: Exploring Taiwan&#39;s Cross-Strait Dilemma in the Twenty-first Century</title>
+      <link>https://www.magcamit.com/publication/magcamit-2015-games/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2015-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trading in Paranoia: Exploring Singapore&#39;s Security-Trade Linkages in the Twenty-first Century</title>
+      <link>https://www.magcamit.com/publication/magcamit-2015-trading/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2015-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case for cohabitative security: The Philippine and Malaysian experience</title>
+      <link>https://www.magcamit.com/publication/magcamit-2014-case/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2014-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crouching tiger, lurking dragon: understanding Taiwan&#39;s sovereignty and trade linkages in the twenty-first century</title>
+      <link>https://www.magcamit.com/publication/magcamit-2014-crouching/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/publication/magcamit-2014-crouching/</guid>
+      <description></description>
     </item>
     
   </channel>

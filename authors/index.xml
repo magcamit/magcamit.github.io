@@ -6,35 +6,45 @@
     <description>Recent content in Authors on @magcamit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; Michael Intal Magcamit</copyright>
+    <copyright>&amp;copy; {year}, Michael Intal Magcamit.</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://www.magcamit.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GA Cushen</title>
-      <link>https://www.magcamit.com/authors/ga-cushen/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
+      <title>Alexander C Tan</title>
+      <link>https://www.magcamit.com/authors/alexander-c-tan/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://www.magcamit.com/authors/ga-cushen/</guid>
+      <guid>https://www.magcamit.com/authors/alexander-c-tan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MS Nixon</title>
-      <link>https://www.magcamit.com/authors/ms-nixon/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
+      <title>Michael I Magcamit</title>
+      <link>https://www.magcamit.com/authors/michael-i-magcamit/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://www.magcamit.com/authors/ms-nixon/</guid>
+      <guid>https://www.magcamit.com/authors/michael-i-magcamit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>admin</title>
-      <link>https://www.magcamit.com/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Michael Intal Magcamit</title>
+      <link>https://www.magcamit.com/authors/michael-intal-magcamit/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://www.magcamit.com/authors/admin/</guid>
+      <guid>https://www.magcamit.com/authors/michael-intal-magcamit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Magcamit</title>
+      <link>https://www.magcamit.com/authors/michael-magcamit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.magcamit.com/authors/michael-magcamit/</guid>
       <description></description>
     </item>
     

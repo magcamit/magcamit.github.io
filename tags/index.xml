@@ -6,8 +6,8 @@
     <description>Recent content in Tags on @magcamit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; Michael Intal Magcamit</copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0530</lastBuildDate>
+    <copyright>&amp;copy; {year}, Michael Intal Magcamit.</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://www.magcamit.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Politics</title>
       <link>https://www.magcamit.com/tags/politics/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>https://www.magcamit.com/tags/politics/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Religion</title>
       <link>https://www.magcamit.com/tags/religion/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>https://www.magcamit.com/tags/religion/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Security</title>
       <link>https://www.magcamit.com/tags/security/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>https://www.magcamit.com/tags/security/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Trading</title>
       <link>https://www.magcamit.com/tags/trading/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0900</pubDate>
       
       <guid>https://www.magcamit.com/tags/trading/</guid>
       <description></description>
