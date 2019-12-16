@@ -1,10 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
     
+      <loc>https://www.magcamit.com/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/tags/politics/</loc>
+      <lastmod>2019-04-13T18:12:19+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/project/</loc>
+      <lastmod>2019-04-13T18:12:19+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/tags/religion/</loc>
+      <lastmod>2019-04-13T18:12:19+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/tags/security/</loc>
+      <lastmod>2019-04-13T18:12:19+09:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://www.magcamit.com/project/serena-sea/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
+      <lastmod>2019-04-13T18:12:19+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/tags/</loc>
+      <lastmod>2019-04-13T18:12:19+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/publication_types/2/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/authors/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/authors/michael-intal-magcamit/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/publication_types/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/publication/magcamit2019duterte/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/publication/magcamit2019fault/</loc>
+      <lastmod>2019-12-16T10:56:43+09:00</lastmod>
     </url>
   
     <url>
@@ -17,6 +88,24 @@
     
       <loc>https://www.magcamit.com/project/sectralink-ea/</loc>
       <lastmod>2019-03-21T23:09:10+05:30</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/tags/trading/</loc>
+      <lastmod>2019-03-21T23:09:10+05:30</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/publication_types/5/</loc>
+      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://www.magcamit.com/authors/alexander-c-tan/</loc>
+      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
     </url>
   
     <url>
@@ -69,105 +158,18 @@
   
     <url>
     
-      <loc>https://www.magcamit.com/publication_types/2/</loc>
-      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/publication_types/5/</loc>
-      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/authors/alexander-c-tan/</loc>
-      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/authors/</loc>
-      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-      <priority>0</priority>
+      <loc>https://www.magcamit.com/author/</loc>
     </url>
   
     <url>
     
       <loc>https://www.magcamit.com/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/authors/michael-intal-magcamit/</loc>
-      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/tags/politics/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/project/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/publication_types/</loc>
-      <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://www.magcamit.com/publication/</loc>
       <lastmod>2019-03-28T10:22:07+09:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/tags/religion/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/tags/security/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/tags/</loc>
-      <lastmod>2019-04-09T08:34:32+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://www.magcamit.com/tags/trading/</loc>
-      <lastmod>2019-03-21T23:09:10+05:30</lastmod>
-      <priority>0</priority>
     </url>
   
 </urlset>
