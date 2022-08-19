@@ -1,0 +1,38 @@
+# Theme metadata
+name = "Magcamit"
+
+[light]
+  # Primary
+  primary = "#D22E36"
+  background = "#EFF0F2"
+
+  link = "#3F7CA0"
+  link_hover = "#D22E36"
+
+  # Menu
+  menu_primary = "#D22E36"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#FFC1B3"
+  menu_title = "#FFC1B3"
+
+  # Home sections
+  home_section_odd = "#EFF0F2"
+  home_section_even = "#EBEBEB"
+
+[dark]
+  # Primary
+  # primary = "#550001"
+  background = "#252527"
+
+  link = "#3F7CA0"
+  link_hover = "#D22E36"
+
+  # Menu
+  menu_primary = "#550001"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#D22E36"
+  menu_title = "#D22E36"
+
+  # Home sections
+  home_section_odd = "#252527"
+  home_section_even = "#4A4A54"
