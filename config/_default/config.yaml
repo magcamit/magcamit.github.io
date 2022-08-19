@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "@magcamit" # Website name
-baseURL: 'https://magcamit.netlify.app/' # Website URL
+baseURL: 'https://www.magcamit.com/' # Website URL
 
 ############################
 ## LANGUAGE
