@@ -17,4 +17,6 @@ design:
 
 ---
 
-<small><a class="twitter-timeline" data-height="1000" data-dnt="true" href="https://twitter.com/mikemagcamit?ref_src=twsrc%5Etfw">Tweets by mikemagcamit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></small>
+<small>
+  <a class="twitter-timeline" data-lang="en" href="https://twitter.com/mikemagcamit?ref_src=twsrc%5Etfw">Tweets by mikemagcamit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</small>
