@@ -38,8 +38,8 @@ social:
     icon: instagram
     label: instagram profile
 organizations:
-  - name: University of Leicester
-    url: https://le.ac.uk/people/michael-magcamit
+  - name: University of Manchester
+    url: https://www.manchester.ac.uk/discover/news/michael-magcamit-new-lecturer-in-global-politics/
 #education:
 #  courses:
 #    - course: PhD in Political Science
@@ -57,8 +57,12 @@ highlight_name: true
 ---
 <div style='text-align: justify'>
 <p>
-Hello! I’m Michael Magcamit, Lecturer in Security Studies in the School of History Politics and International Relations (HyPIR) at the University of Leicester. Before joining HyPIR in June 2021 I was a Marie Skłodowska-Curie Fellow at the Queen Mary University of London (2019-2021) and where I am also currently a Visiting Research Fellow (2021-2023). Prior to moving to the UK in 2019 I was an Assistant Professor of Political Science at Musashi University in Tokyo Japan (2016-2019) and taught International Relations courses on a joint program between the University of London (LSE) and Musashi. I am the author of, among others, <i>Ethnoreligious Otherings and Passionate Conflicts</i> (OUP 2022) and <i>Small Powers and Trading Security</i> (Palgrave/Springer 2016).
-</p><p>
-My area of expertise is International Security, specifically on issues concerning Conflict and Peace, International Trade and Development, and Foreign Policy with a specialist focus on the Asia-Pacific.
+Hello! I’m Michael Magcamit, Lecturer (Assistant Professor) in Global Politics at The University of Manchester in the UK. Before joining Manchester, I was a Lecturer in Security Studies at the University of Leicester and a Marie Skłodowska-Curie Fellow at the Queen Mary University of London. Prior to moving to the UK, I was an Assistant Professor of Political Science at Musashi University in Tokyo, Japan, where I convened International Relations modules on a joint program between the University of London (LSE) and Musashi. 
+</p>
+<p>
+My research and teaching interests sit at the intersection of Critical International Security, Conflict, Development, and Foreign Policy Studies with a specialist focus on the Asia-Pacific. 
+</p>
+<p>
+I am the author of, among others, <i>Ethnoreligious Otherings and Passionate Conflicts</i> (OUP 2022) and <i>Small Powers and Trading Security</i> (Palgrave/Springer 2016).
 </p>
 </div>
