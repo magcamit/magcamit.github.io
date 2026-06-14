@@ -1,0 +1,25 @@
+/* Override default image styling for the logo */
+.logo-img {
+    display: inline;
+    height: calc(var(--line-height) * 2);
+    margin: 0px;
+}
+
+.table-publication-metadata {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+pre code[data-lang="bibtex"] {
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    overflow-x: visible !important;
+}
+
+pre code[data-lang="bibtex"] .giallo-l {
+    white-space: inherit;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
