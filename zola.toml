@@ -103,9 +103,12 @@ stylesheets = ["css/sitewide-styles.css"]
 copyright = "© $YEAR $AUTHOR. All rights reserved."
 
 main_menu = [
-    { name = "musings", url = "musings", trailing_slash = true },
     { name = "research", url = "research", trailing_slash = false },
-    { name = "projects", url = "projects", trailing_slash = true },
+    { name = "publications", url = "publications", trailing_slash = true },
+    { name = "supervision", url = "supervision", trailing_slash = false },
+    { name = "teaching", url = "teaching", trailing_slash = false },
+    { name = "press-and-media", url = "press-and-media", trailing_slash = false },
+    { name = "conferences", url = "conferences", trailing_slash = false },
 ]
 
 socials = [
