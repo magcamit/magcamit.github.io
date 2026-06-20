@@ -6,7 +6,7 @@ description = "[2020] International Studies Quarterly"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2020imagined -->

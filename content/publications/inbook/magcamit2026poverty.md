@@ -1,12 +1,12 @@
 +++
-title = "Chapter 22 Poverty and Development"
+title = "Chapter 22: Poverty and Development"
 date = 2026-01-01
 updated = "2026-06-20"
 description = "[2026] De Gruyter Handbook of Global Security Challenges"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2026poverty -->
@@ -113,7 +113,7 @@ categories = ["publications"]
   isbn = {9783111519869},
   pages = {337–358},
   publisher = {De Gruyter},
-  title = {Chapter 22 Poverty and Development},
+  title = {Chapter 22: Poverty and Development},
   url = {https://doi.org/10.1515/9783111519869-024},
   year = {2026},
 }

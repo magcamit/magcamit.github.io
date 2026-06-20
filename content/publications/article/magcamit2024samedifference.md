@@ -6,7 +6,7 @@ description = "[2024] Japanese Journal of Political Science"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2024samedifference -->

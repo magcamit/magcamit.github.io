@@ -6,7 +6,7 @@ description = "[2024] International Relations of the Asia-Pacific"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: he2024cptpp -->

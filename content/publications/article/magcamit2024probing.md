@@ -6,7 +6,7 @@ description = "[2024] Critical Studies on Security"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2024probing -->

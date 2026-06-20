@@ -6,7 +6,7 @@ description = "[2022] "
 
 [taxonomies]
 tags = ["ethnoreligious-othering", "passionate-conflicts", "emotive-causal-mechanisms", "symbolic-predispositions", "process-tracing"]
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: michael2022ethnoreligious -->

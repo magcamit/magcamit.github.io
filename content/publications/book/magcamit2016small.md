@@ -6,7 +6,7 @@ description = "[2016] "
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2016small -->

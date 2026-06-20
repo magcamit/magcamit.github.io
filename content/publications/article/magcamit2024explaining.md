@@ -6,7 +6,7 @@ description = "[2024] International Affairs"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2024explaining -->

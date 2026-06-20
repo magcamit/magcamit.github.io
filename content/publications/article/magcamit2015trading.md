@@ -6,7 +6,7 @@ description = "[2015] Asian Journal of Political Science"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2015trading -->
@@ -21,6 +21,18 @@ categories = ["publications"]
 <table class="table-publication-metadata">
 <tbody>
 
+
+
+
+<tr>
+<th scope="col">doi</th>
+
+
+
+
+<td><a href="https://doi.org/10.1080/02185377.2014.999248" target="_blank">10.1080/02185377.2014.999248</a></td>
+
+</tr>
 
 
 
@@ -65,16 +77,6 @@ categories = ["publications"]
 
 
 <tr>
-<th scope="col">url</th>
-
-
-<td><a href="https://www.tandfonline.com/doi/full/10.1080/02185377.2014.999248" target="_blank">Link</a></td>
-
-</tr>
-
-
-
-<tr>
 <th scope="col">volume</th>
 
 
@@ -95,12 +97,12 @@ categories = ["publications"]
 @article{magcamit2015trading,
   abstract = {Singapore's rude awakening to independence has led to the creation of one of the most important and strategic entrepôts in the Asia-Pacific. The country's limited territorial lands and natural resources, combined with huge per capita income, high population density and sensitive racial mix, make Singapore the quintessential pragmatic trading state of the twenty-first century. This paper examines how Singapore has embedded itself at the centre of regional and global trade systems by exploiting various forms of free trade activities including multilateral, regional and bilateral FTAs that underpin its security and survival. It argues that in order to maintain the city-state's geo-economic and geo-political viability, the Singaporean government has progressively linked its security interests with its multilevel free trade activities. Given the `vulnerability fetish' and siege mentality that confront Singaporean leaders and policymakers, the pursuit of economic development via free trade has become the heart of its national security policy and strategy. The paper concludes by arguing that the enhancement and preservation of Singapore's survival as a sovereign nation-state demands a strategic utilization of FTAs with different trade partners, especially with regional and trans-regional powers such as the United States and China.},
   author = {Magcamit, Michael Intal},
+  doi = {10.1080/02185377.2014.999248},
   journal = {Asian Journal of Political Science},
   number = {2},
   pages = {184–206},
   publisher = {Taylor & Francis},
   title = {Trading in Paranoia: Exploring Singapore's Security-Trade Linkages in the Twenty-first Century},
-  url = {https://www.tandfonline.com/doi/full/10.1080/02185377.2014.999248},
   volume = {23},
   year = {2015},
 }

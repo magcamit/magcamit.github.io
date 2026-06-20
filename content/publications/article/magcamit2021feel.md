@@ -6,7 +6,7 @@ description = "[2021] Political Science"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2021feel -->

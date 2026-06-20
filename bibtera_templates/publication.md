@@ -6,7 +6,7 @@ description = "[{{year}}] {{ fields.journal | default(value=fields.booktitle | d
 
 [taxonomies]
 tags = [{% for kw in slugified_keywords %}"{{ kw }}"{% if not loop.last %}, {% endif %}{% endfor %}]
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: {{ key }} -->

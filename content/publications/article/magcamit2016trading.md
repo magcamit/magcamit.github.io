@@ -6,7 +6,7 @@ description = "[2016] Japanese Journal of Political Science"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2016trading -->
@@ -21,6 +21,18 @@ categories = ["publications"]
 <table class="table-publication-metadata">
 <tbody>
 
+
+
+
+<tr>
+<th scope="col">doi</th>
+
+
+
+
+<td><a href="https://doi.org/10.1017/S1468109915000407" target="_blank">10.1017/S1468109915000407</a></td>
+
+</tr>
 
 
 
@@ -95,6 +107,7 @@ categories = ["publications"]
 @article{magcamit2016trading,
   abstract = {This paper examines the manner through which the Philippine government has utilized free trade in pursuing its development-oriented national security policies and strategies in the twenty-first century. It argues that against the backdrop of uneven economic development being perpetuated by a deeply entrenched oligarchic system and patronage culture, the primary referent of Philippine national security is its diminishing development space. Despite the government rhetoric with regard to the role of inclusive development in enhancing national security, the Philippine political economy remains highly oligarchic and patrimonial. Such a condition has resulted in institutionalized inequality and structural poverty that undermine the country's supposedly development-based security model. The ability of the very few yet very powerful Filipino elites to transform the country into an oligarchipelago underscores the inefficiencies emanating from this type of politico-economic arrangement. In light of this, the paper evaluates the impacts of the Philippines' free trade activities on its overall level of development space by focusing on several crucial aspects of free trade that the government has failed to properly consider. Moreover, it scrutinizes the key factors that affect the utility of free trade for securing and enhancing the Philippines' development space. The paper concludes by arguing that the Philippine government's attempts at linking its development-centric security interests and free trade objectives have resulted not only in the preservation of uneven economic development and but also the further reinforcement of the existing oligarchic system and patronage culture in the country.},
   author = {Magcamit, Michael Intal},
+  doi = {10.1017/S1468109915000407},
   journal = {Japanese Journal of Political Science},
   number = {1},
   pages = {84–105},

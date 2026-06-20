@@ -6,7 +6,7 @@ description = "[2014] Journal of Human Security"
 
 [taxonomies]
 tags = []
-categories = ["publications"]
+categories = ["publications","research"]
 +++
 
 <!-- citation: magcamit2014case -->
@@ -21,6 +21,18 @@ categories = ["publications"]
 <table class="table-publication-metadata">
 <tbody>
 
+
+
+
+<tr>
+<th scope="col">doi</th>
+
+
+
+
+<td><a href="https://doi.org/10.12924/librello.JoHS" target="_blank">10.12924/librello.JoHS</a></td>
+
+</tr>
 
 
 
@@ -85,6 +97,7 @@ categories = ["publications"]
 @article{magcamit2014case,
   abstract = {This article attempts to explore and analyse the evidence for cohabiting the human security concept into the national security frameworks of ASEAN countries. Using the Philippines and Malaysia as case studies, the article determines the extent to which public officials and policymakers have redefined and reenvisioned national security by incorporating non-traditional, people-centered elements of human security. The word `cohabitation' refers to national governments' efforts to amalgamate statist and humanist dimensions of security when articulating and implementing their national security rhetoric and agenda. It argues that human security naturally complements state security, and vice versa. As such, human security and state security co-exist in a constructive manner that enhances the overall level of national security. In other words, they are mutually constitutive rather than mutually corrosive. Both cases underscore a two-pronged assumption. First, the meaning and provision of national security can neither be eloquently articulated nor completely substantiated without considerations for 'below the state' actors and issues. And second, the eminent status vis-à-vis power of the state in providing national security can neither be trivialized nor undermined.},
   author = {Magcamit, Michael Intal},
+  doi = {10.12924/librello.JoHS},
   journal = {Journal of Human Security},
   number = {1},
   pages = {32–45},
