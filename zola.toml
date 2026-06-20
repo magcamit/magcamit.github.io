@@ -103,12 +103,10 @@ stylesheets = ["css/sitewide-styles.css"]
 copyright = "© 2019-$YEAR $AUTHOR. All rights reserved."
 
 main_menu = [
-    { name = "research", url = "research", trailing_slash = false },
-    { name = "publications", url = "publications", trailing_slash = true },
-    { name = "supervision", url = "supervision", trailing_slash = false },
-    { name = "teaching", url = "teaching", trailing_slash = false },
-    { name = "press-and-media", url = "press-and-media", trailing_slash = false },
-    { name = "conferences", url = "conferences", trailing_slash = false },
+    { name = "research & publications", url = "research", trailing_slash = false },
+    { name = "teaching & supervision", url = "teaching-supervision", trailing_slash = false },
+    { name = "op-eds & blogs", url = "opeds-blogs", trailing_slash = false },
+    { name = "SEPRI consortium", url = "sepri", trailing_slash = false },
 ]
 
 socials = [
