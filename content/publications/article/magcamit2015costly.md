@@ -1,7 +1,7 @@
 +++
 title = "A Costly Affirmation: Exploring Malaysia's One-Sided Domestic Security Dilemma"
 date = 2015-01-01
-updated = "2026-06-19"
+updated = "2026-06-20"
 description = "[2015] Asian Affairs: An American Review"
 
 [taxonomies]

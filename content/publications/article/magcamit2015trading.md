@@ -1,7 +1,7 @@
 +++
 title = "Trading in Paranoia: Exploring Singapore's Security-Trade Linkages in the Twenty-first Century"
 date = 2015-01-01
-updated = "2026-06-19"
+updated = "2026-06-20"
 description = "[2015] Asian Journal of Political Science"
 
 [taxonomies]
