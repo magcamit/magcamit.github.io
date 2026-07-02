@@ -1,7 +1,7 @@
 +++
 title = "Chapter 22: Poverty and Development"
 date = 2026-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2026] De Gruyter Handbook of Global Security Challenges"
 
 [taxonomies]

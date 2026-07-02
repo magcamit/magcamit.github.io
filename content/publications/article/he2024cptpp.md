@@ -1,7 +1,7 @@
 +++
 title = "The CPTPP, cross-strait tensions, and Taiwan's recognition for survival strategy under the democratic progressive party"
 date = 2024-05-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2024] International Relations of the Asia-Pacific"
 
 [taxonomies]

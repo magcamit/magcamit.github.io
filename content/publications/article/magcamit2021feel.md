@@ -1,7 +1,7 @@
 +++
 title = "To feel is to believe: China, United States, and the emotional beliefs of Philippines' Rodrigo Duterte"
 date = 2021-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2021] Political Science"
 
 [taxonomies]

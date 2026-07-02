@@ -1,7 +1,7 @@
 +++
 title = "Crouching tiger, lurking dragon: understanding Taiwan's sovereignty and trade linkages in the twenty-first century"
 date = 2015-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2015] International relations of the Asia-Pacific"
 
 [taxonomies]

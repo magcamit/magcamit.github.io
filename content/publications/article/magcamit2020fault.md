@@ -1,7 +1,7 @@
 +++
 title = "The fault in Japan's stars: Shinzo Abe, North Korea, and the quest for a new Japanese constitution"
 date = 2020-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2020] International Politics"
 
 [taxonomies]
@@ -77,16 +77,6 @@ categories = ["publications","research"]
 
 
 <tr>
-<th scope="col">url</th>
-
-
-<td><a href="https://link.springer.com/article/10.1057/s41311-019-00186-8" target="_blank">Link</a></td>
-
-</tr>
-
-
-
-<tr>
 <th scope="col">volume</th>
 
 
@@ -113,7 +103,6 @@ categories = ["publications","research"]
   pages = {606–633},
   publisher = {Springer},
   title = {The fault in Japan's stars: Shinzo Abe, North Korea, and the quest for a new Japanese constitution},
-  url = {https://link.springer.com/article/10.1057/s41311-019-00186-8},
   volume = {57},
   year = {2020},
 }

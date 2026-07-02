@@ -1,7 +1,7 @@
 +++
 title = "Ethnoreligious Otherings And Passionate Conflicts"
 date = 2022-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2022] "
 
 [taxonomies]

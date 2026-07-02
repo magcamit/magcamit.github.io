@@ -10,6 +10,14 @@ pre-commit-update:
     @prek auto-update
     @echo "Pre-commit hooks updated."
 
+generate-publications-from-bibtex types='article,book,inbook':
+    @echo "Generating publications from BibTeX for types: {{ types }}..."
+    @for type in $(echo "{{ types }}" | tr ',' ' '); do \
+        mkdir -p content/publications/"$type"; \
+        bibtera transform --include-type "$type" -f --file-name-strategy slugify -i static/files/publications.bib -t bibtera_templates/publication.md -o content/publications/"$type"; \
+    done
+    @echo "Publications generated."
+
 # Serve the website locally using Zola
 serve:
     @echo "Serving the website locally using Zola..."

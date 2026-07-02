@@ -1,7 +1,7 @@
 +++
 title = "Games, changes and fears: Exploring Taiwan's cross-Strait dilemma in the Twenty-First Century"
 date = 2015-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2015] Journal of Asian Security and International Affairs"
 
 [taxonomies]

@@ -1,7 +1,7 @@
 +++
 title = "A case for cohabitative security: The Philippine and Malaysian experience"
 date = 2014-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2014] Journal of Human Security"
 
 [taxonomies]

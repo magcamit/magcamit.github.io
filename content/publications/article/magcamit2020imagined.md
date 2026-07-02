@@ -1,7 +1,7 @@
 +++
 title = "Imagined Insecurities in Imagined Communities: Manufacturing the Ethnoreligious Others as Security Threats"
 date = 2020-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2020] International Studies Quarterly"
 
 [taxonomies]

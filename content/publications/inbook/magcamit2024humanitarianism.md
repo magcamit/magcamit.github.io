@@ -1,7 +1,7 @@
 +++
 title = "Chapter 4: Humanitarianism and the new wars: humanitarianism, security, and securitisation"
 date = 2024-02-13
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2024] Handbook on Humanitarianism and Inequality"
 
 [taxonomies]

@@ -1,7 +1,7 @@
 +++
 title = "The Duterte method: A neoclassical realist guide to understanding a small power's foreign policy and strategic behaviour in the Asia-Pacific"
 date = 2020-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2020] Asian Journal of Comparative Politics"
 
 [taxonomies]
@@ -77,16 +77,6 @@ categories = ["publications","research"]
 
 
 <tr>
-<th scope="col">url</th>
-
-
-<td><a href="https://journals.sagepub.com/doi/full/10.1177/2057891119882769" target="_blank">Link</a></td>
-
-</tr>
-
-
-
-<tr>
 <th scope="col">volume</th>
 
 
@@ -113,7 +103,6 @@ categories = ["publications","research"]
   pages = {416–436},
   publisher = {SAGE Publications Sage UK: London, England},
   title = {The Duterte method: A neoclassical realist guide to understanding a small power's foreign policy and strategic behaviour in the Asia-Pacific},
-  url = {https://journals.sagepub.com/doi/full/10.1177/2057891119882769},
   volume = {5},
   year = {2020},
 }

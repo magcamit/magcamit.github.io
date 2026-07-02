@@ -1,7 +1,7 @@
 +++
 title = "Small Powers and Trading Security: Contexts, Motives and Outcomes"
 date = 2016-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2016] "
 
 [taxonomies]

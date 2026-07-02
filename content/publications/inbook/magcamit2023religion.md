@@ -1,7 +1,7 @@
 +++
 title = "Chapter 27: Religion and politics"
 date = 2023-12-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2023] Encyclopedia of Asian Politics"
 
 [taxonomies]

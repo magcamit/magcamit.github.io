@@ -1,7 +1,7 @@
 +++
 title = "Explaining the three-way linkage between populism, securitization, and realist foreign policies: President Donald Trump and the pursuit of ``America first'' doctrine"
 date = 2017-01-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2017] World Affairs"
 
 [taxonomies]
@@ -77,16 +77,6 @@ categories = ["publications","research"]
 
 
 <tr>
-<th scope="col">url</th>
-
-
-<td><a href="https://journals.sagepub.com/doi/full/10.1177/0043820017746263" target="_blank">Link</a></td>
-
-</tr>
-
-
-
-<tr>
 <th scope="col">volume</th>
 
 
@@ -113,7 +103,6 @@ categories = ["publications","research"]
   pages = {6–35},
   publisher = {Sage Publications Sage CA: Los Angeles, CA},
   title = {Explaining the three-way linkage between populism, securitization, and realist foreign policies: President Donald Trump and the pursuit of ``America first'' doctrine},
-  url = {https://journals.sagepub.com/doi/full/10.1177/0043820017746263},
   volume = {180},
   year = {2017},
 }

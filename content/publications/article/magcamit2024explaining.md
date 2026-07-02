@@ -1,7 +1,7 @@
 +++
 title = "Explaining populist securitization and Rodrigo Duterte's anti-establishment Philippine foreign policy"
 date = 2024-09-01
-updated = "2026-06-20"
+updated = "2026-07-02"
 description = "[2024] International Affairs"
 
 [taxonomies]
