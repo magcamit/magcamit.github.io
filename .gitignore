@@ -1,3 +1,8 @@
-resources/_gen
-exampleSite/resources/_gen
-.hugo_build.lock
+hugo-site/resources/_gen
+hugo-site/exampleSite/resources/_gen
+hugo-site/.hugo_build.lock
+
+.DS_Store
+resources/
+public/
+static/processed_images/
